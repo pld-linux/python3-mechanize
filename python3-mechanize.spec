@@ -3,7 +3,7 @@ Summary:	Library for automating interaction with web pages
 Summary(pl.UTF-8):	Biblioteka do automatycznej interakcji ze stronami WWW
 Name:		python3-%{module}
 Version:	0.4.8
-Release:	1
+Release:	2
 License:	BSD, ZPL 2.1
 Group:		Development/Languages/Python
 Source0:	https://github.com/python-mechanize/mechanize/archive/v%{version}/%{module}-%{version}.tar.gz
